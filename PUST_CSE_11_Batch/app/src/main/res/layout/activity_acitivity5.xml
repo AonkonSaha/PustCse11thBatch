@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#2E2E2E"
+    android:fillViewport="false"
+    tools:context=".Acitivity5">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        tools:context=".Actitvity5">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            android:background="#2E2E2E">
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#0E0000">
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:background="@drawable/upf">
+
+                    <ImageView
+                        android:id="@+id/uPic"
+                        android:layout_marginTop="50px"
+                        android:layout_marginBottom="50px"
+                        android:src="@drawable/fatiurpic"
+                        android:layout_width="300px"
+                        android:layout_height="300px"/>
+                    <TextView
+                        android:id="@+id/uName"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textStyle="bold"
+                        android:text="BM Fatiur Rahman"
+                        android:textSize="22sp"
+                        android:textColor="#FFFFFF"/>
+                    <TextView
+                        android:id="@+id/uD"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textStyle="normal"
+                        android:text="Chapainobabgonj"
+                        android:textSize="18sp"
+                        android:textColor="#F5EDED"
+                        android:layout_marginBottom="50px"
+                        android:layout_marginTop="50px"/>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:paddingTop="70px"
+                android:paddingBottom="70px"
+                android:paddingLeft="50px"
+                android:gravity="center"
+                android:background="@drawable/ups">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:gravity="center">
+
+                    <TextView
+                        android:id="@+id/blood"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="B+"
+                        android:textSize="20sp"
+                        android:textStyle="bold"
+                        android:textColor="#fff"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Blood"
+                        android:textSize="18sp"
+                        android:textStyle="normal"
+                        android:textColor="#fff"/>
+
+                </LinearLayout>
+                <View
+                    android:layout_width="1px"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="20px"
+                    android:layout_marginRight="20px"
+                    android:background="#0A0000"/>
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:gravity="center">
+
+                    <TextView
+                        android:id="@+id/nick"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Fatiur"
+                        android:textSize="20sp"
+                        android:textStyle="bold"
+                        android:textColor="#fff"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Nick Name"
+                        android:textSize="18sp"
+                        android:textStyle="normal"
+                        android:textColor="#fff"/>
+
+                </LinearLayout>
+                <View
+                    android:layout_width="1px"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="20px"
+                    android:layout_marginRight="20px"
+                    android:background="#2B2929"/>
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:gravity="center">
+
+                    <TextView
+                        android:id="@+id/rol"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="4"
+                        android:textSize="20sp"
+                        android:textStyle="bold"
+                        android:textColor="#fff"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Roll"
+                        android:textSize="18sp"
+                        android:textStyle="normal"
+                        android:textColor="#fff"/>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:paddingTop="100px"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="80px">
+
+                <LinearLayout
+                    android:id="@+id/sMail"
+                    android:orientation="vertical"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="#fff"
+                        android:textSize="20sp"
+                        android:textStyle="bold"
+                        android:text="Facebook" />
+
+                    <TextView
+                        android:id="@+id/eMail"
+                        android:autoLink="all"
+                        android:textColorLink="#F1F1DF"
+                        android:linksClickable="true"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="#fff"
+                        android:textStyle="normal"
+                        android:textSize="18sp"
+                        android:text="https://www.facebook.com/bmfatiur.rahman.16" />
+
+                </LinearLayout>
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1px"
+                    android:layout_marginTop="10px"
+                    android:layout_marginRight="20px"
+                    android:layout_marginBottom="10px"
+                    android:background="#050500" />
+                <LinearLayout
+                    android:id="@+id/call"
+                    android:orientation="vertical"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="#fff"
+                        android:textSize="20sp"
+                        android:textStyle="bold"
+                        android:text="Phone" />
+
+                    <TextView
+                        android:id="@+id/uPhn"
+                        android:autoLink="all"
+                        android:linksClickable="true"
+                        android:textColorLink="#F1F1DF"
+                        android:layout_marginBottom="25dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="#F3F1F1"
+                        android:textStyle="normal"
+                        android:textSize="18sp"
+                        android:text="01995990157" />
+
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="9dp"
+                        >
+
+                        <com.google.android.gms.ads.AdView
+                            xmlns:ads="http://schemas.android.com/apk/res-auto"
+                            android:id="@+id/adView4"
+                            android:layout_marginTop="50dp"
+                            android:layout_marginRight="12dp"
+                            android:layout_marginLeft="12dp"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_centerHorizontal="true"
+                            android:layout_alignParentBottom="true"
+                            ads:adSize="BANNER"
+                            ads:adUnitId="ca-app-pub-3940256099942544/6300978111">
+                        </com.google.android.gms.ads.AdView>
+
+
+                    </LinearLayout>
+
+
+                </LinearLayout>
+
+
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+
+
+
+</ScrollView>

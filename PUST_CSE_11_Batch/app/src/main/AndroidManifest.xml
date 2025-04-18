@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ankon.latest_cse11th_batch">
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".TestActivity" />
+        <activity android:name=".SplashScreen2" />
+        <activity android:name=".MainActivity3" />
+        <activity android:name=".Circle_Test"></activity>
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-5428100742007793~8059990057" />
+
+        <activity android:name=".Activity44" />
+        <activity android:name=".Activity43" />
+        <activity android:name=".Activity42" />
+        <activity android:name=".Activity41" />
+        <activity android:name=".Activity37" />
+        <activity android:name=".Activity36" />
+        <activity android:name=".Activity35" />
+        <activity android:name=".Activity34" />
+        <activity android:name=".Activity33" />
+        <activity android:name=".Activity32" />
+        <activity android:name=".Activity31" />
+        <activity android:name=".Activity30" />
+        <activity android:name=".DuplicateMainActivity" />
+        <activity android:name=".Activity29" />
+        <activity android:name=".Activity28" />
+        <activity android:name=".Activity27" />
+        <activity android:name=".Activity26" />
+        <activity android:name=".YoutubeActivity" />
+        <activity android:name=".FacebookActivity" />
+        <activity android:name=".DevelopActivity" />
+        <activity android:name=".SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Activity25" />
+        <activity android:name=".Activity24" />
+        <activity android:name=".Activity23" />
+        <activity android:name=".Activity22" />
+        <activity android:name=".Activitywebsite" />
+        <activity android:name=".Activitypicture" />
+        <activity android:name=".Activity21" />
+        <activity android:name=".Activity20" />
+        <activity android:name=".Activity19" />
+        <activity android:name=".Activity18" />
+        <activity android:name=".Activity17" />
+        <activity android:name=".Activity16" />
+        <activity android:name=".Activity15" />
+        <activity android:name=".Activity14" />
+        <activity android:name=".Activity13" />
+        <activity android:name=".Activity12" />
+        <activity android:name=".Activity11" />
+        <activity android:name=".Activity10" />
+        <activity android:name=".Activity9" />
+        <activity android:name=".Activity8" />
+        <activity android:name=".Activity7" />
+        <activity android:name=".Activity6" />
+        <activity android:name=".Acitivity5" />
+        <activity android:name=".Acticity4" />
+        <activity android:name=".Activity3" />
+        <activity android:name=".Actitvity2" />
+        <activity android:name=".MainActivity" />
+
+
+
+
+    </application>
+
+</manifest>

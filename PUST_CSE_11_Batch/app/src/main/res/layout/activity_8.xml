@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/pustlogo"
+    android:backgroundTintMode="screen"
+    android:backgroundTint="#DADACA"
+    android:orientation="vertical"
+    tools:context=".Activity8">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="400dp"
+            android:layout_height="350dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/atiqpic"
+            android:layout_gravity="center"
+            android:paddingBottom="25dp"
+
+            />
+
+
+        <TextView
+            android:id="@+id/textroll6"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:text="@string/strb7"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:layout_gravity="center"
+
+            />
+        <TextView
+            android:id="@+id/Link8"
+            android:autoLink="all"
+            android:linksClickable="true"
+            android:textColorLink="#140157"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="PhoneNo:01733289620\nfb:https://www.facebook.com/mdatiqurrahman.atik.144\n"
+            android:textSize="20dp"
+            android:textColor="#04012C"
+            />
+        <com.google.android.gms.ads.AdView
+            xmlns:ads="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/adView7"
+            android:layout_marginTop="50dp"
+            android:layout_marginRight="12dp"
+            android:layout_marginLeft="12dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true"
+            ads:adSize="BANNER"
+            ads:adUnitId="ca-app-pub-3940256099942544/6300978111">
+        </com.google.android.gms.ads.AdView>
+
+
+
+
+    </LinearLayout>
+
+
+</ScrollView>

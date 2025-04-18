@@ -1,0 +1,362 @@
+<resources>
+    <string name="app_name">PUST-CSE</string>
+
+    <string name="details">CSE 11th BATCH,PUST</string>
+    <string name="aonkonlink">
+
+<a hef="https://www.facebook.com/aonkon.saha.12">Develop By</a>
+
+
+    </string>
+
+
+    <string name="strb1">
+
+    NAME:SAMIM AREFIN.\n
+     ZILLA:Rajshahi\n
+     BLOOD GROUP:A+(ve)\n
+     ID:190101\n
+    </string>
+    <string name="strb2">
+
+     NAME:RAIHAN HOISSEN.\n
+     ZILLA:JESSORE\n
+     BLOOD GROUP:B-(ve)\n
+     ID:190102\n
+
+
+    </string>
+    <string name="strb3">
+
+     NAME:AMIT CHANDRA SAHA.\n
+     ZILLA:CHAPAINOBABGONJ\n
+     BLOOD GROUP:A+(ve)\n
+     Id:190103\n
+    </string>
+
+    <string name="strb4">
+
+     NAME:BM FATIUR RAHMAN.\n
+     ZILLA:JESSORE\n
+     BLOOD GROUP:B+(ve)\n
+     Id:190104\n
+     MOBILE:01995990157
+
+    </string>
+
+    <string name="strb5">
+
+     NAME:MISS JANNATUL FERDOS.\n
+     ZILLA:JESSORE\n
+     BLOOD GROUP:AB+(ve)\n
+     Id:190105\n
+
+
+    </string>
+
+    <string name="strb6">
+
+     NAME:SHAHNEWAZ MD.SAADI.\n
+     ZILLA:RAJSHAHI\n
+     BLOOD GROUP:O+(ve)\n
+     Id:190106\n
+
+
+    </string>
+
+    <string name="strb7">
+
+     NAME:MD.ATIQUR RAHMAN.\n
+     ZILLA:RAJSHAHI\n
+     BLOOD GROUP:N/A\n
+     Id:190107\n
+     MOBILE:01733289620\n
+
+    </string>
+
+    <string name="strb8">
+
+     NAME:MD.SANZID OLIOUL TANZID.\n
+     ZILLA:PABNA\n
+     BLOOD GROUP:N/A\n
+     Id:190108\n
+
+
+    </string>
+
+    <string name="strb9">
+
+     NAME:FAHIMA AKHTER MEHEK.\n
+     ZILLA:DHAKA\n
+     BLOOD GROUP:A+\n
+     Id:190109\n
+    </string>
+
+
+    <string name="strb10">
+
+     NAME:ABDULLAH AL MAMUN\n
+     ZILLA:RAJSHAHI\n
+     BLOOD GROUP:B+(ve)\n
+     Id:190110\n
+
+
+    </string>
+
+    <string name="strb11">
+
+     NAME:MD.MAHADI HASAN\n
+     ZILLA:RAJSHAHI\n
+     BLOOD GROUP:O+(ve)\n
+     Id:190111\n
+
+    </string>
+
+    <string name="strb12">
+
+     NAME:MD.ANIKUR RAHMAN\n
+     ZILLA:RAJSHAHI\n
+     BLOOD GROUP:A+(ve)\n
+     Id:190112\n
+
+    </string>
+
+    <string name="strb13">
+
+     NAME:MD.ANAMUL HAQUE\n
+     ZILLA:RANGPUR\n
+     BLOOD GROUP:N/A\n
+     Id:190113\n
+
+
+    </string>
+
+    <string name="strb14">
+
+     NAME:MD.SHIMUL HOSSAIN\n
+     ZILLA:RAJSHAHI\n
+     BLOOD GROUP:N/A\n
+     Id:190114\n
+
+
+    </string>
+    <string name="strb15">
+
+     NAME:ANIK SAHA\n
+     ZILLA:DHAKA\n
+     BLOOD GROUP:O+(ve)\n
+     Id:190115\n
+
+    </string>
+
+    <string name="strb16">
+
+     NAME:MD.ANWARUL ISLAM HIMEL\n
+     ZILLA:MYMENSINGH\n
+     BLOOD GROUP:O+(ve)\n
+     Id:190116\n
+
+
+    </string>
+
+    <string name="strb17">
+
+     NAME:MD.MOSHIUR RAHMAN\n
+     ZILLA:RAJSHAHI\n
+     BLOOD GROUP:O+(ve)\n
+     Id:190117\n
+
+    </string>
+
+    <string name="strb18">
+
+     NAME:MD.TUSAR IMRAN\n
+     ZILLA:JESSORE\n
+     BLOOD GROUP:B+(ve)\n
+     Id:190118\n
+     MOBILE:01977861944\n
+
+    </string>
+
+    <string name="strb19">
+
+     NAME:MD.SHEIKH FARID\n
+     ZILLA:DINAJPUR\n
+     BLOOD GROUP:B+(ve)\n
+     Id:190119\n
+
+
+    </string>
+    <string name="strb20">
+
+     NAME:SUSTMITA SARKAR\n
+     ZILLA:RAJBARI\n
+     BLOOD GROUP:N/A\n
+     Id:190120\n
+     MOBILE:N/A\n
+
+    </string>
+
+    <string name="strb21">
+
+     NAME:Antu Deb Nath\n
+     ZILLA:Noakhali\n
+     BLOOD GROUP:N/A\n
+     Id:190121\n
+     MOBILE:01754673406\n
+
+    </string>
+    <string name="strb22">
+
+     NAME:MOST. Dristy Khatun\n
+     ZILLA:RAJSHAHI\n
+     BLOOD GROUP:A+(ve)\n
+     Id:190122\n
+
+    </string>
+
+    <string name="strb23">
+
+     NAME:Sharif Hasan\n
+     ZILLA:MYMENSINGH\n
+     BLOOD GROUP:B+(ve)\n
+     Id:190123\n
+
+    </string>
+    <string name="strb24">
+
+     NAME:AONKON SAHA\n
+     ZILLA:LAKSMIPUR(NOAKHALI)\n
+     BLOOD GROUP:B+(ve)\n
+     Id:190124\n
+
+    </string>
+    <string name="strb25">
+
+     NAME:MD. Joy Ali\n
+     ZILLA:RAJSHAHI\n
+     BLOOD GROUP:A+(ve)\n
+     Id:190125\n
+
+    </string>
+    <string name="strb26">
+
+     NAME:Maksudul Hoque\n
+     ZILLA:KISHORGONJ\n
+     BLOOD GROUP:A+(ve)\n
+     Id:190126\n
+
+    </string>
+    <string name="strb27">
+
+     NAME:Sumya Aktar\n
+     ZILLA:JESSORE\n
+        BLOOD GROUP:A+(ve)\n
+     Id:190127\n
+
+    </string>
+    <string name="strb28">
+
+     NAME:MD. Zillur Rahman\n
+     ZILLA:DINAJPUR\n
+        BLOOD GROUP:O+(ve)\n
+     Id:190128\n
+
+    </string>
+
+    <string name="strb29">
+
+     NAME:MD. Shahadat Hossain\n
+     ZILLA:DINAJPUR\n
+        BLOOD GROUP:O-(ve)\n
+     Id:190129\n
+
+    </string>
+
+
+    <string name="strb30">
+
+     NAME:MD. Omid Hossain\n
+     ZILLA:RAJBARI\n
+        BLOOD GROUP:B+(ve)\n
+     Id:190130\n
+
+    </string>
+
+    <string name="strb31">
+
+     NAME:Hriday Kumar\n
+     ZILLA:RAJSHAHI\n
+        BLOOD GROUP:B+(ve)\n
+     Id:190131\n
+
+    </string>
+
+    <string name="strb232">
+
+     NAME:MD. Nafizur Rahman\n
+     ZILLA:SIRAJGONJ\n
+        BLOOD GROUP:B+(ve)\n
+     Id:190132\n
+
+    </string>
+    <string name="strb233">
+
+     NAME:Sampad Kumar Singha\n
+     ZILLA:PABNA\n
+        BLOOD GROUP:B+(ve)\n
+     Id:190133\n
+
+    </string>
+    <string name="strb234">
+
+     NAME:Bima Kumkum\n
+     ZILLA:PABNA\n
+        BLOOD GROUP:O+(ve))\n
+     Id:190134\n
+
+    </string>
+
+    <string name="strb36">
+
+     NAME:MD. Raihanur Haque\n
+     ZILLA:PABNA\n
+        BLOOD GROUP:B+(ve)\n
+     Id:190136\n
+
+    </string>
+    <string name="strb40">
+
+     NAME:MD. Bayazid Hossain\n
+     ZILLA:BOGRA\n
+        BLOOD GROUP:B+(ve)\n
+     Id:190140\n
+
+    </string>
+    <string name="strb41">
+
+     NAME:MD. Rakib Hasann\n
+     ZILLA:PABNA\n
+        BLOOD GROUP:B+(ve)\n
+     Id:190141\n
+
+    </string>
+
+    <string name="strb42">
+
+     NAME:Tania Sultana\n
+     ZILLA:RAJSHAHI\n
+        BLOOD GROUP:O+(ve)\n
+     Id:190142\n
+
+    </string>
+    <string name="strb43">
+
+     NAME:Fardaws Hassan Shuvro\n
+     ZILLA:TANGAIL\n
+        BLOOD GROUP:O+(ve)\n
+     Id:190143\n
+
+    </string>
+
+</resources>
